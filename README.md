@@ -1,3 +1,8 @@
+Aplicação feita com ReactJS para login com conta Google usando Firebase.
+
+Para utilizar: Instalar pacotes npm e atualizar arquivo firebaseConfig.js com os dados do seu firebase.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
